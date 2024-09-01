@@ -38,11 +38,4 @@ In the case you do not understand the above instruction please refer to the user
 For a live working demo contact us at toemptest@gamil.com
 
 Team:
-- [@Abhishek Arya](https://github.com/Chaplin962)
-- [@Mahesh Parihar](https://github.com/Maheshparihar231)
-- [@Abhisek Rana](https://github.com/AbhisekRana)
-- [@Pranav K M](https://github.com/pranav-k-m-iiitdwd)
-- [@Ravi Sharma](https://github.com/raviss091)
-- [@Anuj Sudhir Kulkarni](https://github.com/Anuj-Sudhir-Kulkarni)
-- [@Niranjan Meghwal](https://github.com/NiranjanMeghwal)
-- [@Abhay Rao](https://github.com/Abhay0912)
+[Nawaz](https://github.com/Nawaz8179)
